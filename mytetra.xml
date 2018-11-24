@@ -16,6 +16,11 @@
      </recordtable>
     </node>
     <node crypt="" id="1543024767h8cvapsm5r" name="123"/>
+    <node crypt="" id="154302624273oy78vd1w" name="Редактор Nano">
+     <recordtable>
+      <record id="1543026263l8m0v9yat8" name="Команды" author="" url="" tags="" ctime="20181124052423" dir="154302626370uce1k9e1" file="text.html"/>
+     </recordtable>
+    </node>
    </node>
    <node crypt="" id="15430257216fh0b4mz6w" name="Репозиторий сат">
     <recordtable>
