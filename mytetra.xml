@@ -10,12 +10,16 @@
     </recordtable>
    </node>
    <node crypt="" id="1543024571kyxifw4szr" name="Linux">
-    <node crypt="" id="1543024596tepo9gssd8" name="Linux command">
+    <node crypt="" id="1543024596tepo9gssd8" name="Linux console">
      <recordtable>
       <record id="1543024616t3df24xd07" name="command" author="" url="" tags="" ctime="20181124045656" dir="15430246165p0at97li0" file="text.html"/>
      </recordtable>
     </node>
-    <node crypt="" id="1543024767h8cvapsm5r" name="123"/>
+    <node crypt="" id="1543024767h8cvapsm5r" name="Команды внешние в linux">
+     <recordtable>
+      <record id="1543087871gri8g907ab" name="1" author="" url="" tags="" ctime="20181124223111" dir="1543087871noljkr2sri" file="text.html"/>
+     </recordtable>
+    </node>
     <node crypt="" id="154302624273oy78vd1w" name="Редактор Nano">
      <recordtable>
       <record id="1543026263l8m0v9yat8" name="Команды" author="" url="" tags="" ctime="20181124052423" dir="154302626370uce1k9e1" file="text.html"/>
@@ -29,5 +33,15 @@
    </node>
   </node>
   <node crypt="" id="15430247808qhyn58q89" name="414142"/>
+  <node crypt="" id="1543087980k8x5g3382s" name="Git">
+   <recordtable>
+    <record id="1543087995wxw8gkwp0u" name="1" author="" url="" tags="" ctime="20181124223315" dir="1543087995xg0alwe45w" file="text.html"/>
+   </recordtable>
+   <node crypt="" id="154308800276e7xz3bjo" name="1">
+    <recordtable>
+     <record id="15430880061s6ibbgus3" name="1" author="" url="" tags="" ctime="20181124223326" dir="1543088006x6hrte7w5q" file="text.html"/>
+    </recordtable>
+   </node>
+  </node>
  </content>
 </root>
