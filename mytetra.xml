@@ -22,6 +22,11 @@
   </node>
   <node crypt="" id="15430247808qhyn58q89" name="Python">
    <node crypt="" id="15430880878843p4vuic" name="OOP"/>
+   <node crypt="" id="1543098751wpfylhtpyu" name="Функции">
+    <recordtable>
+     <record id="154309879622mky1jorc" name="Обозначение функции" author="" url="" tags="" ctime="20181125013316" dir="154309879630qiyrz7ge" file="text.html"/>
+    </recordtable>
+   </node>
   </node>
   <node crypt="" id="1543087980k8x5g3382s" name="Git">
    <recordtable>
@@ -44,6 +49,7 @@
   <node crypt="" id="1543098627uyt562zjjn" name="Django">
    <recordtable>
     <record id="15430986455x4cwkt1fh" name="Обозначения" author="" url="" tags="" ctime="20181125013045" dir="1543098645whip2o81or" file="text.html"/>
+    <record id="1543099817360pjeqdsg" name="https://www.djangoproject.com/" author="" url="" tags="" ctime="20181125015017" dir="1543099817zj0pviujv6" file="text.html"/>
    </recordtable>
   </node>
  </content>
