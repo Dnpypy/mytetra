@@ -17,6 +17,11 @@
     </node>
     <node crypt="" id="1543024767h8cvapsm5r" name="123"/>
    </node>
+   <node crypt="" id="15430257216fh0b4mz6w" name="Репозиторий сат">
+    <recordtable>
+     <record id="15430257324smd282hbl" name="Сайт" author="" url="" tags="" ctime="20181124051532" dir="1543025732j55g5hkrg7" file="text.html"/>
+    </recordtable>
+   </node>
   </node>
   <node crypt="" id="15430247808qhyn58q89" name="414142"/>
  </content>
