@@ -48,10 +48,7 @@
   </node>
   <node crypt="" id="1543098627uyt562zjjn" name="Django">
    <recordtable>
-    <record id="15430986455x4cwkt1fh" name="++++++Обозначения++++++" author="" url="" tags="" ctime="20181125013045" dir="1543098645whip2o81or" file="text.html"/>
     <record id="1543099817360pjeqdsg" name="https://www.djangoproject.com/" author="" url="" tags="" ctime="20181125015017" dir="1543099817zj0pviujv6" file="text.html"/>
-    <record id="1543101078vvaf2lxaam" name="MVC " author="" url="" tags="" ctime="20181125021118" dir="1543101078m7qzjtot3h" file="text.html"/>
-    <record id="1543164082dl2rnsebqe" name="Модели" author="" url="" tags="" ctime="20181125194122" dir="1543164082wt9b71fiod" file="text.html"/>
    </recordtable>
    <node crypt="" id="1543163183ux11dd2rzt" name="последовательное изучение">
     <recordtable>
@@ -59,6 +56,33 @@
      <record id="1543163519wa0e9eue3d" name="Платные курсы" author="" url="" tags="" ctime="20181125193159" dir="1543163519zwpn8bb953" file="text.html"/>
     </recordtable>
    </node>
+   <node crypt="" id="1543168837ejesohv5yo" name="Контролер">
+    <recordtable>
+     <record id="1543169003rpr6qhfjl8" name="Что происходит на странице(управление)" author="" url="" tags="" ctime="20181125210323" dir="1543169003brgt8hpwpu" file="text.html"/>
+    </recordtable>
+   </node>
+   <node crypt="" id="1543168844sezbyt1edu" name="Модели">
+    <recordtable>
+     <record id="1543168761t61zq21mc4" name="Принцип создание модели" author="" url="" tags="" ctime="20181125210052" dir="15431687616qy53310dh" file="text.html"/>
+     <record id="1543164082dl2rnsebqe" name="Модели" author="" url="" tags="" ctime="20181125210104" dir="1543164082wt9b71fiod" file="text.html"/>
+     <record id="1543101078vvaf2lxaam" name="MVC " author="" url="" tags="" ctime="20181125210115" dir="1543101078m7qzjtot3h" file="text.html"/>
+    </recordtable>
+   </node>
+   <node crypt="" id="1543168897en67e7rtrb" name="Обозначение">
+    <recordtable>
+     <record id="15430986455x4cwkt1fh" name="++++++Обозначения++++++" author="" url="" tags="" ctime="20181125210156" dir="1543098645whip2o81or" file="text.html"/>
+    </recordtable>
+   </node>
+   <node crypt="" id="1543169823nxxuhurkb9" name="Представление">
+    <recordtable>
+     <record id="1543169827bfjcrz9rey" name="1" author="" url="" tags="" ctime="20181125211707" dir="1543169827nge0abu1b6" file="text.html"/>
+    </recordtable>
+   </node>
+  </node>
+  <node crypt="" id="154317103737yuz8b5u9" name="HTML">
+   <recordtable>
+    <record id="15431710544hmumuliu8" name="Простой шаблон HTML" author="" url="" tags="" ctime="20181125213734" dir="1543171054aub8orwfcq" file="text.html"/>
+   </recordtable>
   </node>
  </content>
 </root>
