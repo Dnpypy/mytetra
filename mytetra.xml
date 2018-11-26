@@ -7,6 +7,7 @@
    <node crypt="" id="1543089197kho49tpy9i" name="Linux console">
     <recordtable>
      <record id="1543024616t3df24xd07" name="command" author="" url="" tags="" ctime="20181124225317" dir="15430246165p0at97li0" file="text.html"/>
+     <record id="1543190571h8ez64jupr" name="Скачивание Распаковка Установка Python Linux " author="" url="https://habr.com/post/203516/" tags="" ctime="20181126030251" dir="15431905716bgmfhxvgc" file="text.html"/>
     </recordtable>
    </node>
    <node crypt="" id="1543098536c6yjpggfi5" name="редактор nano">
@@ -97,6 +98,11 @@
   <node crypt="" id="154317103737yuz8b5u9" name="HTML">
    <recordtable>
     <record id="15431710544hmumuliu8" name="Простой шаблон HTML" author="" url="" tags="" ctime="20181125213734" dir="1543171054aub8orwfcq" file="text.html"/>
+   </recordtable>
+  </node>
+  <node crypt="" id="15431921622s54k8dp5h" name="Pycharm">
+   <recordtable>
+    <record id="1543192182c4okf55vmw" name="Ошибки в программах" author="" url="" tags="" ctime="20181126032942" dir="1543192182wxa11uqujb" file="text.html"/>
    </recordtable>
   </node>
  </content>
