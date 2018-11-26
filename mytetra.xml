@@ -97,9 +97,9 @@
      <record id="154318490533n9inqjf7" name="1" author="" url="" tags="" ctime="20181126012825" dir="15431849053eo512x2bb" file="text.html"/>
     </recordtable>
    </node>
-   <node crypt="" id="1543203259o5y2z2ip29" name="Установки Django">
+   <node crypt="" id="15432044103l0l9v1vbn" name="Установка проекта">
     <recordtable>
-     <record id="1543203265cd3xm3oblz" name="11" author="" url="" tags="" ctime="20181126063425" dir="1543203265p27n466nv8" file="text.html"/>
+     <record id="1543204447m0rp3r1198" name="виртуальное окружение " author="" url="" tags="" ctime="20181126065407" dir="15432044479mvbz8wlds" file="text.html"/>
     </recordtable>
    </node>
   </node>
