@@ -97,6 +97,11 @@
      <record id="154318490533n9inqjf7" name="1" author="" url="" tags="" ctime="20181126012825" dir="15431849053eo512x2bb" file="text.html"/>
     </recordtable>
    </node>
+   <node crypt="" id="1543203259o5y2z2ip29" name="Установки Django">
+    <recordtable>
+     <record id="1543203265cd3xm3oblz" name="11" author="" url="" tags="" ctime="20181126063425" dir="1543203265p27n466nv8" file="text.html"/>
+    </recordtable>
+   </node>
   </node>
   <node crypt="" id="154317103737yuz8b5u9" name="HTML">
    <recordtable>
@@ -108,6 +113,20 @@
     <record id="1543192182c4okf55vmw" name="Ошибки в программах Pycharm версия 2018.3" author="" url="" tags="" ctime="20181126032942" dir="1543192182wxa11uqujb" file="text.html"/>
     <record id="1543198725jl940lv24h" name="Не запускается Pycharm 3.0.3  linux Manjaro" author="" url="https://stackoverflow.com/questions/13439665/how-to-install-java-on-arch-linux" tags="" ctime="20181126053645" dir="1543198725qz72rllfwy" file="text.html"/>
    </recordtable>
+   <node crypt="" id="15432030471mh36a621i" name="Распорядок папок">
+    <recordtable>
+     <record id="1543203052x2wlm4t9rf" name="распорядок папок pycharm" author="" url="" tags="" ctime="20181126063052" dir="1543203052babtdijzk1" file="text.html"/>
+    </recordtable>
+   </node>
+   <node crypt="" id="1543203503i16ppabvd6" name="Горячие клавиши">
+    <recordtable>
+     <record id="1543203515jmdjpg1fnu" name="Горячие клавиши" author="" url="" tags="" ctime="20181126063835" dir="1543203515h0j358txj7" file="text.html">
+      <files>
+       <file id="1543203558av4tyq1sn0" fileName="pucharm-key-1.pdf" type="file"/>
+      </files>
+     </record>
+    </recordtable>
+   </node>
   </node>
  </content>
 </root>
