@@ -23,6 +23,11 @@
     </recordtable>
    </node>
    <node crypt="" id="1543198715ynwcej7vc4" name="Установка программ"/>
+   <node crypt="" id="1543283918bxucjo9obq" name="Создание симлинк">
+    <recordtable>
+     <record id="1543283923jlf9fw2uyu" name="симлинк ссылка" author="" url="https://www.shellhacks.com/ru/symlink-create-symbolic-link-linux/" tags="" ctime="20181127045843" dir="15432839236rpg3p4sdg" file="text.html"/>
+    </recordtable>
+   </node>
   </node>
   <node crypt="" id="15430247808qhyn58q89" name="Python">
    <node crypt="" id="15430880878843p4vuic" name="OOP"/>
@@ -34,6 +39,7 @@
    <node crypt="" id="15432830315idje3p77q" name="PIP">
     <recordtable>
      <record id="1543283046dx3jgsvc7m" name="команды pip" author="" url="https://pythonworld.ru/osnovy/pip.html" tags="" ctime="20181127044406" dir="1543283046bzapi48nbw" file="text.html"/>
+     <record id="15432831457z5i3mojn2" name="Установка пакетов с помощью pip" author="" url="" tags="" ctime="20181127044545" dir="1543283145rsl6ewpn1j" file="text.html"/>
     </recordtable>
    </node>
   </node>
