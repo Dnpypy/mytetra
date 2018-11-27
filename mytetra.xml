@@ -31,6 +31,11 @@
      <record id="154309879622mky1jorc" name="Обозначение функции" author="" url="" tags="" ctime="20181125013316" dir="154309879630qiyrz7ge" file="text.html"/>
     </recordtable>
    </node>
+   <node crypt="" id="15432830315idje3p77q" name="PIP">
+    <recordtable>
+     <record id="1543283046dx3jgsvc7m" name="команды pip" author="" url="https://pythonworld.ru/osnovy/pip.html" tags="" ctime="20181127044406" dir="1543283046bzapi48nbw" file="text.html"/>
+    </recordtable>
+   </node>
   </node>
   <node crypt="" id="1543087980k8x5g3382s" name="Git">
    <recordtable>
