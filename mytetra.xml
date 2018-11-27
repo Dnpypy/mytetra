@@ -33,6 +33,12 @@
      <record id="1543353325ttckenls01" name="ОбЪяснение симлинк команда ln" author="" url="" tags="" ctime="20181128001525" dir="1543353325cgjifx9jly" file="text.html"/>
     </recordtable>
    </node>
+   <node crypt="" id="1543359524o8p0usvmd3" name="Гайд установки pip python">
+    <recordtable>
+     <record id="1543359536qlmpwfe74s" name="Подробное описание" author="" url="" tags="" ctime="20181128015856" dir="15433595363fc9vmh78v" file="text.html"/>
+     <record id="1543362011wzkgylvk0r" name="Вопрос на форуме" author="" url="" tags="" ctime="20181128024011" dir="15433620119lvu35cqia" file="text.html"/>
+    </recordtable>
+   </node>
   </node>
   <node crypt="" id="15430247808qhyn58q89" name="Python">
    <node crypt="" id="15430880878843p4vuic" name="OOP"/>
