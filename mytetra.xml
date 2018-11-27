@@ -28,6 +28,7 @@
    <node crypt="" id="1543283918bxucjo9obq" name="Создание симлинк">
     <recordtable>
      <record id="1543283923jlf9fw2uyu" name="симлинк ссылка" author="" url="https://www.shellhacks.com/ru/symlink-create-symbolic-link-linux/" tags="" ctime="20181127045843" dir="15432839236rpg3p4sdg" file="text.html"/>
+     <record id="1543353325ttckenls01" name="ОбЪяснение симлинк команда ln" author="" url="" tags="" ctime="20181128001525" dir="1543353325cgjifx9jly" file="text.html"/>
     </recordtable>
    </node>
   </node>
