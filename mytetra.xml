@@ -197,5 +197,10 @@
     <record id="1543643191luidi0umy4" name="1" author="" url="" tags="" ctime="20181201084631" dir="1543643191vhx0dz121h" file="text.html"/>
    </recordtable>
   </node>
+  <node crypt="" id="1543644267gaq4xp6wcj" name="mysql">
+   <recordtable>
+    <record id="1543644278a1pldtbkwv" name="Файл конфигурации" author="" url="" tags="" ctime="20181201090438" dir="1543644278zkbp49eb56" file="text.html"/>
+   </recordtable>
+  </node>
  </content>
 </root>
