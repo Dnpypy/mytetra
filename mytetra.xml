@@ -190,6 +190,7 @@
   <node crypt="" id="1543642872nqj8x6bred" name="PHP">
    <recordtable>
     <record id="1543642909k2gw8uvgev" name="Установка LAMP в archlinux" author="" url="http://www.unix-lab.org/posts/lamp/" tags="" ctime="20181201084149" dir="1543642909r8yqgbw72r" file="text.html"/>
+    <record id="1543645407xauv4t8bhl" name="Конфиг php" author="" url="" tags="" ctime="20181201092327" dir="1543645407obxefhfmb2" file="text.html"/>
    </recordtable>
   </node>
   <node crypt="" id="15436431554g5gmk81g3" name="Mariadb">
@@ -204,7 +205,8 @@
   </node>
   <node crypt="" id="1543645235o1q7pxchu7" name="Ошибки PHP">
    <recordtable>
-    <record id="1543645273cfmuj40279" name="localhost/phpmyadmin/setup  Object not found!" author="" url="https://stackoverflow.com/questions/21748086/phpmyadmin-not-working-on-localhost" tags="" ctime="20181201092113" dir="15436452739pfzckx417" file="text.html"/>
+    <record id="1543645273cfmuj40279" name="1. localhost/phpmyadmin/setup  Object not found!" author="" url="https://stackoverflow.com/questions/21748086/phpmyadmin-not-working-on-localhost" tags="" ctime="20181201092113" dir="15436452739pfzckx417" file="text.html"/>
+    <record id="1543645422v7xs2rlu11" name="2.phpMyAdmin - ErrorThe mysqli extension is missing. Please check your PHP configuration" author="" url="" tags="" ctime="20181201092342" dir="1543645422xyx5iu19tx" file="text.html"/>
    </recordtable>
   </node>
  </content>
