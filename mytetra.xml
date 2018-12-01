@@ -202,5 +202,10 @@
     <record id="1543644278a1pldtbkwv" name="Файл конфигурации" author="" url="" tags="" ctime="20181201090438" dir="1543644278zkbp49eb56" file="text.html"/>
    </recordtable>
   </node>
+  <node crypt="" id="1543645235o1q7pxchu7" name="Ошибки PHP">
+   <recordtable>
+    <record id="1543645273cfmuj40279" name="localhost/phpmyadmin/setup  Object not found!" author="" url="https://stackoverflow.com/questions/21748086/phpmyadmin-not-working-on-localhost" tags="" ctime="20181201092113" dir="15436452739pfzckx417" file="text.html"/>
+   </recordtable>
+  </node>
  </content>
 </root>
