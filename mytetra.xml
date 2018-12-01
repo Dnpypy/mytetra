@@ -53,6 +53,7 @@
     <record id="1543640185hel3kkx1at" name="Установк Arch с первого раза" author="" url="https://ziggi.org/ustanovka-i-nastroyka-arch-linux-xfce-chast-1/" tags="" ctime="20181201075625" dir="1543640185adcu2lcmjr" file="text.html"/>
     <record id="1543640498x9vwcxhdow" name="Монтирование USB" author="" url="https://wiki.archlinux.org/index.php/USB_storage_devices_(%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9)#%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D0%BC%D0%BE%D0%BD%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D1%81_%D0%BF%D0%BE%D0%BC%D0%BE%D1%89%D1%8C%D1%8E_udev&#10;" tags="" ctime="20181201080138" dir="15436404982c0n19wuiu" file="text.html"/>
     <record id="1543641265oa0e9fr7oe" name="Настройка драйверов" author="" url="" tags="" ctime="20181201081425" dir="1543641265uxiorb3i20" file="text.html"/>
+    <record id="15436415238rycv6xnj7" name="Монтирование Usb 2" author="" url="" tags="" ctime="20181201081843" dir="1543641523an09pedoqr" file="text.html"/>
    </recordtable>
   </node>
   <node crypt="" id="15430247808qhyn58q89" name="Python">
