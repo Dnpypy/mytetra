@@ -185,5 +185,10 @@
     <record id="1543641638n9s0c5vo92" name="Файлы настроек" author="" url="https://wiki.archlinux.org/index.php/Apache_HTTP_Server_(%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9)#%D0%A3%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0" tags="" ctime="20181201082038" dir="1543641638oztmunyasg" file="text.html"/>
    </recordtable>
   </node>
+  <node crypt="" id="1543642872nqj8x6bred" name="PHP">
+   <recordtable>
+    <record id="1543642909k2gw8uvgev" name="Установка LAMP в archlinux" author="" url="http://www.unix-lab.org/posts/lamp/" tags="" ctime="20181201084149" dir="1543642909r8yqgbw72r" file="text.html"/>
+   </recordtable>
+  </node>
  </content>
 </root>
