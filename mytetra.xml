@@ -19,9 +19,10 @@
      <record id="1543380716vsjghzm3zh" name="Установка sublime Manjaro/Arch" author="" url="https://onfor.info/arch-kak-ustanovit-sublimetext/" tags="" ctime="20181128075156" dir="1543380716w6g71mv7td" file="text.html"/>
     </recordtable>
    </node>
-   <node crypt="" id="1543098536c6yjpggfi5" name="редактор nano">
+   <node crypt="" id="1543098536c6yjpggfi5" name="Редактор nano">
     <recordtable>
      <record id="1543026263l8m0v9yat8" name="Команды" author="" url="" tags="" ctime="20181125012901" dir="154302626370uce1k9e1" file="text.html"/>
+     <record id="1543643759xcg50clff8" name="Поиск в файле" author="" url="https://help.ubuntu.ru/wiki/nano" tags="" ctime="20181201085559" dir="15436437594hwkhoyi6y" file="text.html"/>
     </recordtable>
    </node>
    <node crypt="" id="15430985733rusehnhld" name="внешние команды окна">
@@ -188,6 +189,11 @@
   <node crypt="" id="1543642872nqj8x6bred" name="PHP">
    <recordtable>
     <record id="1543642909k2gw8uvgev" name="Установка LAMP в archlinux" author="" url="http://www.unix-lab.org/posts/lamp/" tags="" ctime="20181201084149" dir="1543642909r8yqgbw72r" file="text.html"/>
+   </recordtable>
+  </node>
+  <node crypt="" id="15436431554g5gmk81g3" name="Mariadb">
+   <recordtable>
+    <record id="1543643191luidi0umy4" name="1" author="" url="" tags="" ctime="20181201084631" dir="1543643191vhx0dz121h" file="text.html"/>
    </recordtable>
   </node>
  </content>
