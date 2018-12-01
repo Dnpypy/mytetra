@@ -206,7 +206,7 @@
   <node crypt="" id="1543645235o1q7pxchu7" name="Ошибки PHP">
    <recordtable>
     <record id="1543645273cfmuj40279" name="1. localhost/phpmyadmin/setup  Object not found!" author="" url="https://stackoverflow.com/questions/21748086/phpmyadmin-not-working-on-localhost" tags="" ctime="20181201092113" dir="15436452739pfzckx417" file="text.html"/>
-    <record id="1543645422v7xs2rlu11" name="2.phpMyAdmin - ErrorThe mysqli extension is missing. Please check your PHP configuration" author="" url="" tags="" ctime="20181201092342" dir="1543645422xyx5iu19tx" file="text.html"/>
+    <record id="1543645422v7xs2rlu11" name="2.phpMyAdmin - ErrorThe mysqli extension is missing. Please check your PHP configuration" author="" url="https://stackoverflow.com/questions/35099523/the-mysqli-extension-is-missing-please-check-your-php-configuration-windows-7" tags="" ctime="20181201092342" dir="1543645422xyx5iu19tx" file="text.html"/>
    </recordtable>
   </node>
  </content>
