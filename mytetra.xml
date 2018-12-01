@@ -52,6 +52,7 @@
    <recordtable>
     <record id="1543640185hel3kkx1at" name="Установк Arch с первого раза" author="" url="https://ziggi.org/ustanovka-i-nastroyka-arch-linux-xfce-chast-1/" tags="" ctime="20181201075625" dir="1543640185adcu2lcmjr" file="text.html"/>
     <record id="1543640498x9vwcxhdow" name="Монтирование USB" author="" url="" tags="" ctime="20181201080138" dir="15436404982c0n19wuiu" file="text.html"/>
+    <record id="1543641265oa0e9fr7oe" name="Настройка драйверов" author="" url="" tags="" ctime="20181201081425" dir="1543641265uxiorb3i20" file="text.html"/>
    </recordtable>
   </node>
   <node crypt="" id="15430247808qhyn58q89" name="Python">
@@ -168,7 +169,7 @@
   <node crypt="" id="1543639875ixxex5urtz" name="Tetra">
    <node crypt="" id="15436398793gpitk31d1" name="Настройка">
     <recordtable>
-     <record id="154363993724lb2n2loy" name="Создание ярлыка  - одно слово" author="" url="" tags="" ctime="20181201075217" dir="1543639937s5119o8umm" file="text.html"/>
+     <record id="154363993724lb2n2loy" name="Создание ярлыка  - бинарника" author="" url="" tags="" ctime="20181201075217" dir="1543639937s5119o8umm" file="text.html"/>
      <record id="1543640757369ki4hg6q" name="Папка data, clone git, установка mytetra" author="" url="https://webhamster.ru/site/page/index/articles/projectcode/170" tags="" ctime="20181201080557" dir="1543640757euphcna935" file="text.html"/>
     </recordtable>
    </node>
