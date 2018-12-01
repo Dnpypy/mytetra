@@ -51,6 +51,7 @@
   <node crypt="" id="1543640083346ug44om2" name="Arch">
    <recordtable>
     <record id="1543640185hel3kkx1at" name="Установк Arch с первого раза" author="" url="https://ziggi.org/ustanovka-i-nastroyka-arch-linux-xfce-chast-1/" tags="" ctime="20181201075625" dir="1543640185adcu2lcmjr" file="text.html"/>
+    <record id="1543640498x9vwcxhdow" name="Монтирование USB" author="" url="" tags="" ctime="20181201080138" dir="15436404982c0n19wuiu" file="text.html"/>
    </recordtable>
   </node>
   <node crypt="" id="15430247808qhyn58q89" name="Python">
@@ -74,6 +75,11 @@
    <node crypt="" id="154308800276e7xz3bjo" name="1">
     <recordtable>
      <record id="15430880061s6ibbgus3" name="1" author="" url="" tags="" ctime="20181124223326" dir="1543088006x6hrte7w5q" file="text.html"/>
+    </recordtable>
+   </node>
+   <node crypt="" id="1543640547bnsmjkjheo" name="Git install">
+    <recordtable>
+     <record id="1543640625z9ynpix9re" name="SSH-ключи, Mytetra, Git, OpenSSH" author="" url="https://webhamster.ru/site/page/index/articles/comp/171" tags="" ctime="20181201080345" dir="1543640625d9f5be6vvk" file="text.html"/>
     </recordtable>
    </node>
   </node>
