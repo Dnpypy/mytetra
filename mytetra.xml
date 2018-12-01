@@ -77,9 +77,6 @@
    </node>
   </node>
   <node crypt="" id="1543087980k8x5g3382s" name="Git">
-   <recordtable>
-    <record id="1543087995wxw8gkwp0u" name="1" author="" url="" tags="" ctime="20181124223315" dir="1543087995xg0alwe45w" file="text.html"/>
-   </recordtable>
    <node crypt="" id="154308800276e7xz3bjo" name="1">
     <recordtable>
      <record id="15430880061s6ibbgus3" name="1" author="" url="" tags="" ctime="20181124223326" dir="1543088006x6hrte7w5q" file="text.html"/>
@@ -207,6 +204,11 @@
    <recordtable>
     <record id="1543645273cfmuj40279" name="1. localhost/phpmyadmin/setup  Object not found!" author="" url="https://stackoverflow.com/questions/21748086/phpmyadmin-not-working-on-localhost" tags="" ctime="20181201092113" dir="15436452739pfzckx417" file="text.html"/>
     <record id="1543645422v7xs2rlu11" name="2.phpMyAdmin - ErrorThe mysqli extension is missing. Please check your PHP configuration" author="" url="https://stackoverflow.com/questions/35099523/the-mysqli-extension-is-missing-please-check-your-php-configuration-windows-7" tags="" ctime="20181201092342" dir="1543645422xyx5iu19tx" file="text.html"/>
+   </recordtable>
+  </node>
+  <node crypt="" id="1543661008w07eu92slj" name="Tor">
+   <recordtable>
+    <record id="15436610121p2onz8ulx" name="1" author="" url="" tags="" ctime="20181201134332" dir="1543661012l6ss0mh2e2" file="text.html"/>
    </recordtable>
   </node>
  </content>
