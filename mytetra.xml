@@ -149,7 +149,11 @@
    </node>
   </node>
   <node crypt="" id="1543639875ixxex5urtz" name="Tetra">
-   <node crypt="" id="15436398793gpitk31d1" name="Настройка"/>
+   <node crypt="" id="15436398793gpitk31d1" name="Настройка">
+    <recordtable>
+     <record id="154363993724lb2n2loy" name="Создание ярлыка  - одно слово" author="" url="" tags="" ctime="20181201075217" dir="1543639937s5119o8umm" file="text.html"/>
+    </recordtable>
+   </node>
   </node>
  </content>
 </root>
