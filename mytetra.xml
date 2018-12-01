@@ -48,7 +48,11 @@
     </recordtable>
    </node>
   </node>
-  <node crypt="" id="1543640083346ug44om2" name="Arch"/>
+  <node crypt="" id="1543640083346ug44om2" name="Arch">
+   <recordtable>
+    <record id="1543640185hel3kkx1at" name="Установк Arch с первого раза" author="" url="https://ziggi.org/ustanovka-i-nastroyka-arch-linux-xfce-chast-1/" tags="" ctime="20181201075625" dir="1543640185adcu2lcmjr" file="text.html"/>
+   </recordtable>
+  </node>
   <node crypt="" id="15430247808qhyn58q89" name="Python">
    <node crypt="" id="15430880878843p4vuic" name="OOP"/>
    <node crypt="" id="1543098751wpfylhtpyu" name="Функции">
@@ -138,6 +142,7 @@
    <recordtable>
     <record id="1543192182c4okf55vmw" name="Ошибки в программах Pycharm версия 2018.3" author="" url="" tags="" ctime="20181126032942" dir="1543192182wxa11uqujb" file="text.html"/>
     <record id="1543198725jl940lv24h" name="Не запускается Pycharm 3.0.3  linux Manjaro" author="" url="https://stackoverflow.com/questions/13439665/how-to-install-java-on-arch-linux" tags="" ctime="20181126053645" dir="1543198725qz72rllfwy" file="text.html"/>
+    <record id="1543640259eftscxo9iq" name="Установка pycharm и создание ссылки" author="" url="https://tutorialforlinux.com/2014/10/14/how-to-install-pycharm-python-ide-on-arch-linux-32-64bit-easy-guide/&#10;" tags="" ctime="20181201075739" dir="1543640259i7qdny9nkm" file="text.html"/>
    </recordtable>
    <node crypt="" id="15432030471mh36a621i" name="Распорядок папок">
     <recordtable>
